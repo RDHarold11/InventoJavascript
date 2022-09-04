@@ -33,7 +33,7 @@ $enviar.addEventListener("click", ()=>{
     else{
         Swal.fire({
             title: 'No sabe sumá?',
-            imageUrl: '/img/pp.png',
+            imageUrl: 'pp.png',
             imageWidth: 400,
             imageHeight: 400,
             imageAlt: 'Custom image',
